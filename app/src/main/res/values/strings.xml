@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IG_Page</string>
+    <string name="mail">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_pass">Forgot password</string>
+    <string name="login">Login</string>
+    <string name="sign_up">or Sign up with</string>
+</resources>
